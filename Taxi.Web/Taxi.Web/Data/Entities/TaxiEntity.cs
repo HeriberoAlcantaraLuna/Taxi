@@ -2,7 +2,7 @@
 
 namespace Taxi.Web.Data.Entities
 {
-    public class TaxiEntity : IEntity
+    public class TaxiEntity 
     {
         public int Id { get; set; }
 

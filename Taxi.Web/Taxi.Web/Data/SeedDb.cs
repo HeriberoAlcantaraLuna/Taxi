@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Taxi.Web.Data.Entities
+namespace Taxi.Web.Data
 {
-     interface IEntity
+    public class SeedDb
     {
-         int Id { get; set; }
     }
 }
